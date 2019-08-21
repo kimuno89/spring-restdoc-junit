@@ -1,0 +1,20 @@
+[source,options="nowrap"]
+----
+{
+  "code" : "OK",
+  "message" : "Success.",
+  "data" : [ {
+    "id" : 1,
+    "name" : "김윤호",
+    "loginId" : "yh_kim",
+    "number" : "010-6261-5283",
+    "age" : 31
+  }, {
+    "id" : 2,
+    "name" : "홍호철",
+    "loginId" : "hchong",
+    "number" : "010-1234-1234",
+    "age" : 31
+  } ]
+}
+----

@@ -1,0 +1,31 @@
+[cols="5,3,5,5"]
+===== Response Data Fields
+|===
+|필드명|타입|양식|설명
+
+|`+[]id+`
+|`+Number+`
+|
+|아이디
+
+|`+[]name+`
+|`+String+`
+|
+|이름
+
+|`+[]loginId+`
+|`+String+`
+|
+|로그인 아이디
+
+|`+[]number+`
+|`+String+`
+|
+|핸드폰 번호
+
+|`+[]age+`
+|`+Number+`
+|
+|나이
+
+|===

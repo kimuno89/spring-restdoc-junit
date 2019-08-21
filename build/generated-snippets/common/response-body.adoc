@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"code":"OK","message":"Success.","data":{"apiResponseCodes":{"SERVER_ERROR":"Internal Server Error","UNAUTHORIZED":"UNAUTHORIZED","BAD_PARAMETER":"invalid parameter.","NOT_FOUND":"Not Found Resources.","OK":"Success."}}}
+----

@@ -1,0 +1,20 @@
+응답코드
+|===
+|코드|코드명
+
+|`+OK+`
+|Success.
+
+|`+BAD_PARAMETER+`
+|invalid parameter.
+
+|`+NOT_FOUND+`
+|Not Found Resources.
+
+|`+UNAUTHORIZED+`
+|UNAUTHORIZED
+
+|`+SERVER_ERROR+`
+|Internal Server Error
+
+|===

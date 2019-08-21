@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://docs.api.com/api/allUsers' -i -X GET \
+    -H 'Accept: application/json'
+----
